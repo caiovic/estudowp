@@ -1,0 +1,4 @@
+[Sun Sep 04 12:33:52.391651 2022] [fcgid:warn] [pid 8200:tid 1344] [client 127.0.0.1:58662] mod_fcgid: read timeout from pipe, referer: http://estudo-de-casa-wp.local/wp-admin/
+[Sun Sep 04 12:33:52.391651 2022] [core:error] [pid 8200:tid 1344] [client 127.0.0.1:58662] End of script output before headers: admin-ajax.php, referer: http://estudo-de-casa-wp.local/wp-admin/
+[Wed Sep 07 13:21:41.744886 2022] [fcgid:warn] [pid 16856:tid 1316] [client 127.0.0.1:54662] mod_fcgid: read timeout from pipe, referer: http://estudo-de-casa-wp.local/wp-admin/
+[Wed Sep 07 13:21:41.745825 2022] [core:error] [pid 16856:tid 1316] [client 127.0.0.1:54662] End of script output before headers: admin-ajax.php, referer: http://estudo-de-casa-wp.local/wp-admin/
