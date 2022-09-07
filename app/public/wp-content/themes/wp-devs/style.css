@@ -1,0 +1,23 @@
+/*
+Theme Name: WP Devs
+Theme URI: http://estudo-de-casa-wp.local
+Author: Caio Victor
+Author URI: http://estudo-de-casa-wp.local
+Description: Tema para estudos wordpress
+Requires at least: 5.9
+Tested up to: 6.0
+Requires PHP: 8.0
+Version: 1.2
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Text Domain: wp-devs
+Tags: one-column, custom-menu, custom-logo, editor-style, featured-images, translation-ready
+
+
+*/
+
+/*
+ * Font smoothing.
+ * This is a niche setting that will not be available via Global Styles.
+ * https://github.com/WordPress/gutenberg/issues/35934
+ */
